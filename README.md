@@ -22,6 +22,9 @@
 #### 7. IDM多线程下载
   - [IDM破解直装版_6.40.8.exe](https://voohlly.lanzoue.com/iyo2v0pm4m8h)
   - []()
+#### 8. Chrome插件
+  - [video-speed-controller.zip](https://voohlly.lanzoue.com/irVXs0pm4l8b)
+  - []()
 
 ## about Android
 #### 1. 刷机工具
