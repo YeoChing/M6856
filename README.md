@@ -2,7 +2,7 @@
 **👀欢迎来到 YeoChing 的资源收集站**
     
 >🌱 2021.3.13 setup  
->🌱 2023.3.8 growing
+>🌱 2023.3.8 growing  
 >🌱 ……
 - 📫 How to reach me，Please click [here](http://www.coolapk.com/u/2483998). 
  
