@@ -6,11 +6,11 @@
 
 ## 资源收集站 about PC
 1. 任务栏流量显示
-  >[]()
+  - []()
 2. 搜索&everything
-  >[Everything.exe](https://voohlly.lanzoue.com/itdvkmqnr2f)
+  - [Everything.exe](https://voohlly.lanzoue.com/itdvkmqnr2f)
 3. 卸载(清理注册表)
-  >[geek.exe](https://voohlly.lanzoue.com/i2FWH0lpyoza)
+  -[geek.exe](https://voohlly.lanzoue.com/i2FWH0lpyoza)
 4. 压缩&解压缩
   >[7Z.exe](https://voohlly.lanzoue.com/iYSfwmqnyrc)
 5. 激活工具
