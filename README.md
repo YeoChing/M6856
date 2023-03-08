@@ -4,7 +4,8 @@
 >🌱 2021.3.13 setup  
 >🌱 2023.3.8 growing  
 >🌱 ……
-- 📫 How to reach me，Please click [here](http://www.coolapk.com/u/2483998). 
+- 📫 How to reach me，Please click [here](http://www.coolapk.com/u/2483998).   
+ Please click ![C](https://github.com/YeoChing/M6856/blob/831c7fa0fdc28a0ae86fbf116369a5291dc2fa4e/CA1024x1024w.png).
  
 ## about PC
 #### 1. 任务栏流量显示
