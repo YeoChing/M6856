@@ -1,11 +1,11 @@
 # 👋 Hello, everyone, I’m @Yeoching
 **👀 I’m interested in science and technology,**
+** 欢迎来到YeoChing的资源收集站 **
     
 >🌱 2021.3.13
 - 📫 How to reach me 
-
-## 资源收集站 
-> ### about PC
+ 
+## about PC
 #### 1. 任务栏流量显示
   - [TrafficMonitor_V1.84.1_x64](https://voohlly.lanzoue.com/ivQrQ0pm0bgf)
 #### 2. 搜索&everything
@@ -19,7 +19,7 @@
 #### 6. 系统启动盘刷写
   - [rufus_3.12.exe](https://voohlly.lanzoue.com/iNT8tmqnm2f)
 
-> ### about Android
+## about Android
 #### 1. 刷机工具
   - [搞机助手官网](https://lsdy.top/gjzs)
   - [残芯专用TWRPRecovery入工具Win](https://voohlly.lanzoue.com/iq0FLm90swb)
