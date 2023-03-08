@@ -12,11 +12,11 @@
 3. 卸载(清理注册表)
   -[geek.exe](https://voohlly.lanzoue.com/i2FWH0lpyoza)
 4. 压缩&解压缩
-  >[7Z.exe](https://voohlly.lanzoue.com/iYSfwmqnyrc)
+  -[7Z.exe](https://voohlly.lanzoue.com/iYSfwmqnyrc)
 5. 激活工具
-  >[Windows激活](https://voohlly.lanzoue.com/ia6Mkmruhde)
+  -[Windows激活](https://voohlly.lanzoue.com/ia6Mkmruhde)
 6. 系统启动盘刷写
-  >[rufus_3.12.exe](https://voohlly.lanzoue.com/iNT8tmqnm2f)
+  -[rufus_3.12.exe](https://voohlly.lanzoue.com/iNT8tmqnm2f)
 
 ## 资源收集站 about Android
                
