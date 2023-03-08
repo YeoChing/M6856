@@ -19,7 +19,18 @@
   - [rufus_3.12.exe](https://voohlly.lanzoue.com/iNT8tmqnm2f)
 
 ## 资源收集站 about Android
-               
+### 1. 刷机工具
+  - [搞机助手官网](https://lsdy.top/gjzs)
+  - [残芯专用TWRPRecovery入工具Win](https://voohlly.lanzoue.com/iq0FLm90swb)
+  - []()
+### 2. TWRP              
+  - [OnePlus 10T]()
+  - ……
+
+### 3. 驱动程序              
+  - [OnePlus]()
+  - [OPPO]()
+
 
 <!---
 @TopolerMay a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
