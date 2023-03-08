@@ -6,9 +6,13 @@
 
 ## 资源收集站 about PC
 1. 流量显示
+>
 2. 搜索&everything
+>
 3. 卸载(包清理注册表)
+>
 4. 压缩&解压缩
+>[7Z.exe](https://voohlly.lanzoue.com/iYSfwmqnyrc)
 
 ## 资源收集站 about Android
                
