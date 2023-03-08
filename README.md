@@ -1,6 +1,6 @@
 # 👋 Hello, everyone, I’m @Yeoching
-**👀 I’m interested in science and technology,**
-** 欢迎来到YeoChing的资源收集站 **
+**👀 I’m interested in science and technology，**
+**欢迎来到YeoChing的资源收集站**
     
 >🌱 2021.3.13
 - 📫 How to reach me 
