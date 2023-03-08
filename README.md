@@ -19,10 +19,14 @@
   - [Windows激活](https://voohlly.lanzoue.com/ia6Mkmruhde)
 #### 6. 系统启动盘刷写
   - [rufus_3.12.exe](https://voohlly.lanzoue.com/iNT8tmqnm2f)
+#### 7. IDM多线程下载
+  - [IDM破解直装版_6.40.8.exe](https://voohlly.lanzoue.com/iyo2v0pm4m8h)
+  - []()
 
 ## about Android
 #### 1. 刷机工具
   - [搞机助手官网](https://lsdy.top/gjzs)
+  - [搞机工具箱9.40.zip](https://voohlly.lanzoue.com/idm5F0pm4lfi)
   - [残芯专用TWRPRecovery入工具Win](https://voohlly.lanzoue.com/iq0FLm90swb)
   - []()
 #### 2. TWRP              
