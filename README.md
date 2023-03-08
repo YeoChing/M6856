@@ -1,9 +1,10 @@
 # 👋 Hello, everyone, I’m @Yeoching
-**👀欢迎来到YeoChing的资源收集站**
+**👀欢迎来到 YeoChing 的资源收集站**
     
 >🌱 2021.3.13 setup  
 >🌱 2023.3.8 growing
-- 📫 How to reach me 
+>🌱 ……
+- 📫 How to reach me，Please click [here](http://www.coolapk.com/u/2483998). 
  
 ## about PC
 #### 1. 任务栏流量显示
