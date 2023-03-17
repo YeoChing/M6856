@@ -14,7 +14,7 @@
 |2|[《1984》]()||
 |3|[《美丽新世界》]()||
 |4|[《娱乐至死》](https://voohlly.lanzoue.com/iZLTi0qbnkta)||
-|5|[《狂热分子》](https://voohlly.lanzoue.com/i2FI10qbnkpg)|> 当我们的生活朝不保夕，完全无力控制我们自己的生存环境的时候，就会执着于熟悉的生活方式，我们通过把生活方式固定，去对抗深深的不安全感，借此给自己制造一种幻象，即不可预测性已经被我们驯服。———埃里克·霍弗 |
+|5|[《狂热分子》](https://voohlly.lanzoue.com/i2FI10qbnkpg)|- 当我们的生活朝不保夕，- 完全无力控制我们自己的生存环境的时候，- 就会执着于熟悉的生活方式，- 我们通过把生活方式固定，- 去对抗深深的不安全感，- 借此给自己制造一种幻象，即 - 不可预测性已经被我们驯服。———埃里克·霍弗 |
 |6|[《县乡中国》](https://voohlly.lanzoue.com/iJCvb0qbnmfi)||
 |7|[《哈佛中国史》](https://voohlly.lanzoue.com/iQbWc0qbnrjc)||
 |8|[《大崛起：中国经济的增长与转型》](https://voohlly.lanzoue.com/iD8PG0qbnmbe)||
