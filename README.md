@@ -39,11 +39,11 @@
 |1|[《置身室内》](https://voohlly.lanzoue.com/i7MVU0qbo3lg)|[](https://github.com/YeoChing/M6856/blob/ff6483e36971564059edb71c549f14c1710d722f/%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85%20_%20%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95_%E5%85%B0%E5%B0%8F%E6%AC%A2_zhelper-search.pdf)||
 |2|[《1984》]()||
 |3|[《美丽新世界》]()||
-|4|[《娱乐至死》](https://voohlly.lanzoue.com/iZLTi0qbnkta)|[](https://github.com/YeoChing/M6856/blob/main/%E5%AA%92%E4%BB%8B%E6%89%B9%E8%AF%84%E4%B8%89%E9%83%A8%E6%9B%B2%EF%BC%9A%E5%A8%B1%E4%B9%90%E8%87%B3%E6%AD%BB%2B%E7%AB%A5%E5%B9%B4%E7%9A%84%E6%B6%88%E9%80%9D%2B%E6%8A%80%E6%9C%AF%E5%9E%84%E6%96%AD%EF%BC%88%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C%EF%BC%89%EF%BC%88%E6%B3%A2%E6%96%AF%E6%9B%BC%E2%80%9C%E5%AA%92%E4%BB%8B%E6%89%B9%E8%AF%84%E4%B8%89%E9%83%A8%E6%9B%B2%E2%80%9D%EF%BC%89%20(%E5%B0%BC...%20(Z-Library).pdf)|||
+|4|[《娱乐至死》](https://voohlly.lanzoue.com/iZLTi0qbnkta)|[](https://github.com/YeoChing/M6856/blob/main/%E5%AA%92%E4%BB%8B%E6%89%B9%E8%AF%84%E4%B8%89%E9%83%A8%E6%9B%B2%EF%BC%9A%E5%A8%B1%E4%B9%90%E8%87%B3%E6%AD%BB%2B%E7%AB%A5%E5%B9%B4%E7%9A%84%E6%B6%88%E9%80%9D%2B%E6%8A%80%E6%9C%AF%E5%9E%84%E6%96%AD%EF%BC%88%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C%EF%BC%89%EF%BC%88%E6%B3%A2%E6%96%AF%E6%9B%BC%E2%80%9C%E5%AA%92%E4%BB%8B%E6%89%B9%E8%AF%84%E4%B8%89%E9%83%A8%E6%9B%B2%E2%80%9D%EF%BC%89%20(%E5%B0%BC...%20(Z-Library).pdf)||
 |5|[《狂热分子》](https://voohlly.lanzoue.com/i2FI10qbnkpg)|[](https://github.com/YeoChing/M6856/blob/ff6483e36971564059edb71c549f14c1710d722f/%E7%8B%82%E7%83%AD%E5%88%86%E5%AD%90%EF%BC%9A%E7%A0%81%E5%A4%B4%E5%B7%A5%E4%BA%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E7%9A%84%E6%B2%89%E6%80%9D%E5%BD%95%20(%E3%80%94%E7%BE%8E%E3%80%95%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E9%9C%8D%E5%BC%97%E8%91%97%EF%BC%9B%E6%A2%81%E6%B0%B8%E5%AE%89%E8%AF%91)%20(Z-Library).pdf)||
-|6|[《县乡中国》](https://voohlly.lanzoue.com/iJCvb0qbnmfi)|[](https://github.com/YeoChing/M6856/blob/main/%E5%8E%BF%E4%B9%A1%E4%B8%AD%E5%9B%BD.pdf)|||
+|6|[《县乡中国》](https://voohlly.lanzoue.com/iJCvb0qbnmfi)|[](https://github.com/YeoChing/M6856/blob/main/%E5%8E%BF%E4%B9%A1%E4%B8%AD%E5%9B%BD.pdf)||
 |7|[《哈佛中国史》](https://voohlly.lanzoue.com/iQbWc0qbnrjc)|||
-|8|[《大崛起：中国经济的增长与转型》](https://voohlly.lanzoue.com/iD8PG0qbnmbe)|||
+|8|[《大崛起：中国经济的增长与转型》](https://voohlly.lanzoue.com/iD8PG0qbnmbe)||
 |9|[《现代中国的形成》]()|||
 |10|[《亚洲大趋势》]()|||
 |11|[《和平戛然而止》]()|||
