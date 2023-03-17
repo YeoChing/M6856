@@ -6,7 +6,7 @@
 >🌱 ……
 - 📫 How to reach me，Please click [here](http://www.coolapk.com/u/2483998).   
  
-## about PC
+## about💻PC💻
 |1|任务栏流量显示| [TrafficMonitor_V1.84.1_x64](https://voohlly.lanzoue.com/ivQrQ0pm0bgf)|
 |---|---|---|
 |2|搜索&everything|[Everything.exe](https://voohlly.lanzoue.com/itdvkmqnr2f)|
@@ -17,7 +17,7 @@
 |7|IDM多线程下载|[IDM破解直装版_6.40.8.exe](https://voohlly.lanzoue.com/iyo2v0pm4m8h)|
 |8|Chrome插件|[video-speed-controller.zip](https://voohlly.lanzoue.com/irVXs0pm4l8b)|
 
-## about Android
+## about🤖Android🤖
 #### 1. 刷机工具
   - [搞机助手官网](https://lsdy.top/gjzs)
   - [搞机工具箱9.40.zip](https://voohlly.lanzoue.com/idm5F0pm4lfi)
@@ -34,7 +34,7 @@
 
 ## About📖政哲经史📖
 
-| |《书名》|内网链接|Keywords|
+| |《书名》|🔗内网链接🔗|Keywords|
 |---|---|---|---|
 |1|[《置身室内》](https://github.com/YeoChing/M6856/blob/ff6483e36971564059edb71c549f14c1710d722f/%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85%20_%20%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95_%E5%85%B0%E5%B0%8F%E6%AC%A2_zhelper-search.pdf)|||
 |2|[《1984》]()|||
