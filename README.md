@@ -14,7 +14,7 @@
 |2|[《1984》]()||
 |3|[《美丽新世界》]()||
 |4|[《娱乐至死》](https://voohlly.lanzoue.com/iZLTi0qbnkta)||
-|5|[《狂热分子》](https://voohlly.lanzoue.com/i2FI10qbnkpg)|>当我们的生活朝不保夕，
+|5|[《狂热分子》](https://voohlly.lanzoue.com/i2FI10qbnkpg)|> 当我们的生活朝不保夕，
 完全无力控制我们自己的生存环境的时候，
 就会执着于熟悉的生活方式，
 我们通过把生活方式固定，
