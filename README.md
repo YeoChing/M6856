@@ -8,27 +8,27 @@
 - 📫 How to reach me，Please click [here](http://www.coolapk.com/u/2483998).   
  
  ## About📖政哲经史📖  
-| |《书名》|Keywords|
+| |《书名》|`Keywords`|
 |---|---|---|
-|1|[《置身室内》](https://voohlly.lanzoue.com/i7MVU0qbo3lg)||
-|2|[《1984》]()||
-|3|[《美丽新世界》]()||
-|4|[《娱乐至死》](https://voohlly.lanzoue.com/iZLTi0qbnkta)||
+|1|[《置身室内》](https://voohlly.lanzoue.com/i7MVU0qbo3lg)|``|
+|2|[《1984》]()|``|
+|3|[《美丽新世界》]()|``|
+|4|[《娱乐至死》](https://voohlly.lanzoue.com/iZLTi0qbnkta)|``|
 |5|[《狂热分子》](https://voohlly.lanzoue.com/i2FI10qbnkpg)|`当我们的生活朝不保夕，完全无力控制我们自己的生存环境的时候，就会执着于熟悉的生活方式，我们通过把生活方式固定，去对抗深深的不安全感，借此给自己制造一种幻象，即不可预测性已经被我们驯服。———埃里克·霍弗`|
-|6|[《县乡中国》](https://voohlly.lanzoue.com/iJCvb0qbnmfi)||
-|7|[《哈佛中国史》](https://voohlly.lanzoue.com/iQbWc0qbnrjc)||
-|8|[《大崛起：中国经济的增长与转型》](https://voohlly.lanzoue.com/iD8PG0qbnmbe)||
-|9|[《现代中国的形成》]()||
-|10|[《亚洲大趋势》](https://voohlly.lanzoue.com/iB0jf0qbns5e)||
-|11|[《和平戛然而止》]()||
-|12|[《文明的冲突与世界秩序的重建》](https://voohlly.lanzoue.com/iDgXG0qbnrxg)||
-|13|[《全球化与国家竞争》](https://voohlly.lanzoue.com/ibFeh0qbo4of)||
-|14|[《国家资本再分配与民间资本再积累》](https://voohlly.lanzoue.com/ij5fS0qbo56d)||
-|15|[《最后的完美世界》](https://voohlly.lanzoue.com/iCUEk0qbnqah)||
-|16|[《利维坦》](https://voohlly.lanzoue.com/i6LTn0qbnryh)||
-|17|[《纳瓦尔宝典》](https://voohlly.lanzoue.com/iDG4u0qbrype)||
-|18|[《美国政治-激荡于理想与现实之间》](https://voohlly.lanzoue.com/iyR7d0qbns0j)||
-|19|[《大国的崩溃》](https://voohlly.lanzoue.com/ia2JH0qbnrmf)||
+|6|[《县乡中国》](https://voohlly.lanzoue.com/iJCvb0qbnmfi)|``|
+|7|[《哈佛中国史》](https://voohlly.lanzoue.com/iQbWc0qbnrjc)|``|
+|8|[《大崛起：中国经济的增长与转型》](https://voohlly.lanzoue.com/iD8PG0qbnmbe)|``|
+|9|[《现代中国的形成》]()|``|
+|10|[《亚洲大趋势》](https://voohlly.lanzoue.com/iB0jf0qbns5e)|``|
+|11|[《和平戛然而止》]()|``|
+|12|[《文明的冲突与世界秩序的重建》](https://voohlly.lanzoue.com/iDgXG0qbnrxg)|``|
+|13|[《全球化与国家竞争》](https://voohlly.lanzoue.com/ibFeh0qbo4of)|``|
+|14|[《国家资本再分配与民间资本再积累》](https://voohlly.lanzoue.com/ij5fS0qbo56d)|``|
+|15|[《最后的完美世界》](https://voohlly.lanzoue.com/iCUEk0qbnqah)|``|
+|16|[《利维坦》](https://voohlly.lanzoue.com/i6LTn0qbnryh)|``|
+|17|[《纳瓦尔宝典》](https://voohlly.lanzoue.com/iDG4u0qbrype)|``|
+|18|[《美国政治-激荡于理想与现实之间》](https://voohlly.lanzoue.com/iyR7d0qbns0j)|``|
+|19|[《大国的崩溃》](https://voohlly.lanzoue.com/ia2JH0qbnrmf)|``|
  
 ## About💻PC💻  
 |1|任务栏流量显示| [TrafficMonitor_V1.84.1_x64](https://voohlly.lanzoue.com/ivQrQ0pm0bgf)|
