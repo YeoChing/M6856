@@ -7,6 +7,7 @@
 >🌱 ……
 - 📫 How to reach me，Please click [here](http://www.coolapk.com/u/2483998).   
  
+ 
  ## About📖政哲经史📖  
 | |《书名》|`Keywords`|
 |---|---|---|
@@ -32,7 +33,7 @@
  
 ## About💻PC💻  
 |1|任务栏流量显示| [TrafficMonitor_V1.84.1_x64](https://voohlly.lanzoue.com/ivQrQ0pm0bgf)|
-|---|---|---|
+|---|:---|---|
 |2|搜索&everything|[Everything.exe](https://voohlly.lanzoue.com/itdvkmqnr2f)|
 |3|卸载(清理注册表)|[geek.exe](https://voohlly.lanzoue.com/i2FWH0lpyoza)|
 |4|压缩&解压缩|[7Z.exe](https://voohlly.lanzoue.com/iYSfwmqnyrc)|
@@ -50,21 +51,7 @@
 #### 2. TWRP              
   - [OnePlus 10T]()
   - ……
-
 #### 3. 驱动程序              
   - [OnePlus]()
   - [OPPO]()
 
-
-#### Instructions
-
-|   |   |   |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-<!---
-@TopolerMay a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
