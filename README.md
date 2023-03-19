@@ -1,6 +1,8 @@
 # 👋 Hello, everyone, I’m @YeoChing
 **👀欢迎来到 YeoChing 的资源收集站**
     
+    <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=CXBsZmphYGduSXh4J2pmZA" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
+    
 >🌱 2021.3.13 setup.  
 >🌱 2023.3.8 growing.  
 >🌱 2023.3.17 growing again.  
