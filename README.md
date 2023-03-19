@@ -37,82 +37,82 @@
 |19|[《大国的崩溃》](https://voohlly.lanzoue.com/ia2JH0qbnrmf)|``|
 ---
 ## About💻PC💻  
-    ### ①.适用必备
-    |1|任务栏流量显示| [TrafficMonitor_V1.84.1_x64](https://voohlly.lanzoue.com/ivQrQ0pm0bgf)|
-    |---|:---|---|
-    |2|搜索&everything|[Everything.exe](https://voohlly.lanzoue.com/itdvkmqnr2f)|
-    |3|卸载(清理注册表)|[geek.exe](https://voohlly.lanzoue.com/i2FWH0lpyoza)|
-    |4|压缩&解压缩|[7Z.exe](https://voohlly.lanzoue.com/iYSfwmqnyrc)|
-    |5|激活工具|[Windows激活](https://voohlly.lanzoue.com/ia6Mkmruhde)|
-    |6|系统启动盘刷写|[rufus_3.12.exe](https://voohlly.lanzoue.com/iNT8tmqnm2f)|
-    |7|IDM多线程下载|[IDM破解直装版_6.40.8.exe](https://voohlly.lanzoue.com/iyo2v0pm4m8h)|
-    |8|Chrome插件|[video-speed-controller.zip](https://voohlly.lanzoue.com/irVXs0pm4l8b)|
+    ### ① **适用必备**
+|1|任务栏流量显示| [TrafficMonitor_V1.84.1_x64](https://voohlly.lanzoue.com/ivQrQ0pm0bgf)|
+|---|:---|---|
+|2|搜索&everything|[Everything.exe](https://voohlly.lanzoue.com/itdvkmqnr2f)|
+|3|卸载(清理注册表)|[geek.exe](https://voohlly.lanzoue.com/i2FWH0lpyoza)|
+|4|压缩&解压缩|[7Z.exe](https://voohlly.lanzoue.com/iYSfwmqnyrc)|
+|5|激活工具|[Windows激活](https://voohlly.lanzoue.com/ia6Mkmruhde)|
+|6|系统启动盘刷写|[rufus_3.12.exe](https://voohlly.lanzoue.com/iNT8tmqnm2f)|
+|7|IDM多线程下载|[IDM破解直装版_6.40.8.exe](https://voohlly.lanzoue.com/iyo2v0pm4m8h)|
+|8|Chrome插件|[video-speed-controller.zip](https://voohlly.lanzoue.com/irVXs0pm4l8b)|
 
-    ### ②.适用建议
-    |序号|功能|software|
-    |:---:|:---|:---|
-    |1|解压| 7-Zip|
-    |2| python| anaconda|
-    |3| CAD| Autocad2007|
-    |4| Cad图复制为矢量格式wmf | betterwmf|
-    |5|PDF阅读|BookXnote pro / Xodo / Adobe Acrobat DC / Sumatra PDF / icecream PDF / ABBYY|
-    |6|EPUB阅读|just read / 可道阅读器 / Calibre|
-    |7|知网阅读器|Caj Viewer|
-    |8|RSS阅读器|Fluent Reader|
-    |9|Download Manager|IDM / NDM / Motrix / FDM|
-    |10|图像处理|GIMP / Photoshop / Topaz Mask AI （抠图）/ Adobe Ilustrantor / Vector magic （图片矢量化）
-    |11|音乐播放器|foobar|2000（本地/在线）/ YesPlay Music （网易云第三方客户端）|
-    |12|视频播放器|腾讯视频 / potplayer / Vlc media player|
-    |13|Markdown软件|Notion / Typora / Obsidian / Effie|
-    |14|思维导图|Xmind / 幕布|
-    |15|微软系列|OneNote / Office|20|1|6 / Todo / whiteboard / Onedrive / Edge Browser|
-    |16|多屏协同|华为电脑管家（nova|6） / 互传 / lenovo one lite / QtScrcpy / 米卓同屏助手 / Scrcpy GUI by 晨钟酱 / Anlink|
-    |17|远程协助|todesk|
-    |18|卸载软件|total uninstaller / geek / hibit uninstaller|
-    |19|翻译软件|Xtranslator / Copytranslaor / 网易有道词典 / 知云文献翻译 / QTanslator|
-    |20|画中画|pip tool|
-    |21|流程图|亿图 / visio / draw.io|
-    |22|截图|Snipaste / Share X / FS Capture|
-    |23|视频录制|OBS / Bandicam|
-    |24|视频压缩|小丸工具箱|
-    |25|文献管理|Zotero|
-    |26| C盘搬家|Free Move / |3|60 C盘搬家 / Folder Move|
-    |27|系统安全/清理|火绒 / Wise Disk Cleanner X|
-    |28|状态栏居中透明|TrayS / TaskBarX|
-    |29|快速搜索及启动|Everything / Listary / Lucy / Maya / Wox / Runany|
-    |30|剪贴板增强|Ditto|
-    |31|解锁文件占用|IObit Unlocker|
-    |32|密码管理|keepass / Bitwarden|
-    |33|云盘|天翼云 / 百度云 / 蓝奏云 / 坚果云 / iCloud|
-    |34|Ocr|panda / 天若 / Qiv / 汉王 / Abbyy / 妙手 / 白描网页版|
-    |35|软件市场|华为应用市场 / portableapps platform / Pure SoftWare Downloader|
-    |36| 浏览器优化|Speedfox|
-    |37|给文件夹上色|folder painter|
-    |38|护眼软件|Iris|
-    |39|右键菜单管理|Context Menu Manager|
-    |40|按规则整理文件|Dropit|
-    |41|脚本软件|按键精灵 / Key mouse go / 小脚本|
-    |42|代码编辑器|Vs code / sublime text |2
-    |43|图片查看|ACDsee / Honey view|
-    |44|文件夹同步|SyncTrayzor|
-    |45|桌面整理|Fences / 酷呆桌面|
-    |46|CSDN 文章获取为markdwon文件|csdn 文章下载器|
-    |47|格式转换器|格式工厂 / File converter|
-    |48|b站视频下载|DownKyi / HD Video Converter Factory Pro|
-    |49|资源管理器标签|QttabBar / Groupy / Multrin / Clover（慎用）|
-    |50|屏保|匍匐前进的布朗熊 / Fliqo
-    |51|工具箱|万彩office办公大师 / uPDF|
-    |52|图片漂白工具|原本|
-    |53|图床|picgo|
-    |54|文件预览|Quicklook|
-    |55|屏幕扩展|spacedesk / Xdisplay|
-    |56|文件重命名|renamer|
-    |57| cad 版本转换|cad converter|20|1|9|
-    |58|查看已装驱动|driverstore Explorer|
-    |59|PPT插件|onekey / 英豪ppt插件|
-    |60|txt转换epub|mobi|easypub|
-    |61|FTP server|Wing FTP server|
-    |62|OneNote插件|Gem for OneNote|
+    ### ② **适用建议**
+|序号|功能|software|
+|:---:|:---|:---|
+|1|解压| 7-Zip|
+|2| python| anaconda|
+|3| CAD| Autocad2007|
+|4| Cad图复制为矢量格式wmf | betterwmf|
+|5|PDF阅读|BookXnote pro / Xodo / Adobe Acrobat DC / Sumatra PDF / icecream PDF / ABBYY|
+|6|EPUB阅读|just read / 可道阅读器 / Calibre|
+|7|知网阅读器|Caj Viewer|
+|8|RSS阅读器|Fluent Reader|
+|9|Download Manager|IDM / NDM / Motrix / FDM|
+|10|图像处理|GIMP / Photoshop / Topaz Mask AI （抠图）/ Adobe Ilustrantor / Vector magic （图片矢量化）
+|11|音乐播放器|foobar|2000（本地/在线）/ YesPlay Music （网易云第三方客户端）|
+|12|视频播放器|腾讯视频 / potplayer / Vlc media player|
+|13|Markdown软件|Notion / Typora / Obsidian / Effie|
+|14|思维导图|Xmind / 幕布|
+|15|微软系列|OneNote / Office|20|1|6 / Todo / whiteboard / Onedrive / Edge Browser|
+|16|多屏协同|华为电脑管家（nova|6） / 互传 / lenovo one lite / QtScrcpy / 米卓同屏助手 / Scrcpy GUI by 晨钟酱 / Anlink|
+|17|远程协助|todesk|
+|18|卸载软件|total uninstaller / geek / hibit uninstaller|
+|19|翻译软件|Xtranslator / Copytranslaor / 网易有道词典 / 知云文献翻译 / QTanslator|
+|20|画中画|pip tool|
+|21|流程图|亿图 / visio / draw.io|
+|22|截图|Snipaste / Share X / FS Capture|
+|23|视频录制|OBS / Bandicam|
+|24|视频压缩|小丸工具箱|
+|25|文献管理|Zotero|
+|26| C盘搬家|Free Move / |3|60 C盘搬家 / Folder Move|
+|27|系统安全/清理|火绒 / Wise Disk Cleanner X|
+|28|状态栏居中透明|TrayS / TaskBarX|
+|29|快速搜索及启动|Everything / Listary / Lucy / Maya / Wox / Runany|
+|30|剪贴板增强|Ditto|
+|31|解锁文件占用|IObit Unlocker|
+|32|密码管理|keepass / Bitwarden|
+|33|云盘|天翼云 / 百度云 / 蓝奏云 / 坚果云 / iCloud|
+|34|Ocr|panda / 天若 / Qiv / 汉王 / Abbyy / 妙手 / 白描网页版|
+|35|软件市场|华为应用市场 / portableapps platform / Pure SoftWare Downloader|
+|36| 浏览器优化|Speedfox|
+|37|给文件夹上色|folder painter|
+|38|护眼软件|Iris|
+|39|右键菜单管理|Context Menu Manager|
+|40|按规则整理文件|Dropit|
+|41|脚本软件|按键精灵 / Key mouse go / 小脚本|
+|42|代码编辑器|Vs code / sublime text |2
+|43|图片查看|ACDsee / Honey view|
+|44|文件夹同步|SyncTrayzor|
+|45|桌面整理|Fences / 酷呆桌面|
+|46|CSDN 文章获取为markdwon文件|csdn 文章下载器|
+|47|格式转换器|格式工厂 / File converter|
+|48|b站视频下载|DownKyi / HD Video Converter Factory Pro|
+|49|资源管理器标签|QttabBar / Groupy / Multrin / Clover（慎用）|
+|50|屏保|匍匐前进的布朗熊 / Fliqo
+|51|工具箱|万彩office办公大师 / uPDF|
+|52|图片漂白工具|原本|
+|53|图床|picgo|
+|54|文件预览|Quicklook|
+|55|屏幕扩展|spacedesk / Xdisplay|
+|56|文件重命名|renamer|
+|57| cad 版本转换|cad converter|20|1|9|
+|58|查看已装驱动|driverstore Explorer|
+|59|PPT插件|onekey / 英豪ppt插件|
+|60|txt转换epub|mobi|easypub|
+|61|FTP server|Wing FTP server|
+|62|OneNote插件|Gem for OneNote|
 
 ---
 ## About🤖Android🤖
