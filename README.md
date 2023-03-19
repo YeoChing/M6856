@@ -4,9 +4,14 @@
 >🌱 2021.3.13 setup.  
 >🌱 2023.3.8 growing.  
 >🌱 2023.3.17 growing again.  
->🌱 ……
+>🌱 2023.3.17 growing again again.  
+>🌱……
 - 📫 How to reach me，Please click [here](http://www.coolapk.com/u/2483998).   
- 
+ ---
+ #ToDos
+ - [ ] study
+ - [ ] shopping
+ ---
  
  ## About📖政哲经史📖  
 | |《书名》|`Keywords`|
@@ -32,7 +37,7 @@
 |19|[《大国的崩溃》](https://voohlly.lanzoue.com/ia2JH0qbnrmf)|``|
  
 ## About💻PC💻  
-### 适用必备
+### ①.适用必备
 |1|任务栏流量显示| [TrafficMonitor_V1.84.1_x64](https://voohlly.lanzoue.com/ivQrQ0pm0bgf)|
 |---|:---|---|
 |2|搜索&everything|[Everything.exe](https://voohlly.lanzoue.com/itdvkmqnr2f)|
@@ -43,7 +48,7 @@
 |7|IDM多线程下载|[IDM破解直装版_6.40.8.exe](https://voohlly.lanzoue.com/iyo2v0pm4m8h)|
 |8|Chrome插件|[video-speed-controller.zip](https://voohlly.lanzoue.com/irVXs0pm4l8b)|
 
-### 适用建议
+### ②.适用建议
 |序号|功能|software|
 |:---:|:---|:---|
 |1|解压| 7-Zip|
