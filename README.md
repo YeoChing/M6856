@@ -49,6 +49,10 @@
 |6|系统启动盘刷写|[rufus_3.12.exe](https://voohlly.lanzoue.com/iNT8tmqnm2f)|
 |7|IDM多线程下载|[IDM破解直装版_6.40.8.exe](https://voohlly.lanzoue.com/iyo2v0pm4m8h)|
 |8|Chrome插件|[video-speed-controller.zip](https://voohlly.lanzoue.com/irVXs0pm4l8b)|
+|9|WinDefender&更新&onedrive|[精简关闭开关.zip](https://voohlly.lanzouu.com/ih7Jc1l6maij)|
+|10|office下载工具|[Office_2013-2019_C2R_Install_v7.0.6.exe](https://voohlly.lanzouu.com/ivkgI1l6rs8h)|
+|11|激活及许可证清理再安装|[OfficeTool_10.0.4.11_Green.zip](https://voohlly.lanzouu.com/iogzQ1l6rwzi)|
+
 
 **②适用建议**
 |序号|功能|software|
