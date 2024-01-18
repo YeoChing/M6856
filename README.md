@@ -9,9 +9,10 @@
 >🌱 2023.3.19 growing again again.  
 >🌱……
 - 📫 How to reach me，Please click [here](http://www.coolapk.com/u/2483998).   
- ---
+ 
 
-## 一、About💻PC💻  
+---
+## 一、About PC•💻  
 **①适用必备**
 |序号|功能|software|
 |---|:---|---|
@@ -95,7 +96,7 @@
 |62|OneNote插件|Gem for OneNote|
 
 ---
-## 二、About🤖Android🤖
+## 二、About Android•🤖
 #### 1. 刷机工具
   - [搞机助手官网](https://lsdy.top/gjzs)
   - [搞机工具箱9.40.zip](https://voohlly.lanzoue.com/idm5F0pm4lfi)
@@ -107,8 +108,9 @@
 #### 3. 驱动程序              
   - [OnePlus]()
   - [OPPO]()
+
 ---
-## 三、About📖政哲经史📖  
+## 三、About 政哲经史•📖  
 | |《书名》|`Keywords`|
 |---|---|---|
 |1|[《置身室内》](https://voohlly.lanzoue.com/i7MVU0qbo3lg)|`这本书讲了30年来中国政府在经济发展中扮演的角色。书里面有大量实例、图像解释了政府和经济政策的作用。包括了土地财政、地方政府的债务、国际贸易的平衡。地方政府的考核、是生产投资型政府还是服务型政府。`|
