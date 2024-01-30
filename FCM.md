@@ -1,7 +1,7 @@
 # 资源仓库
-'For heytap(OPPO/OnePlus/realme) user：'
-1.battery.apk
-2.
+' For heytap(OPPO/OnePlus/realme) user： '
+1. battery.apk
+2. 
 
 
 # 常见问题•Q&A
