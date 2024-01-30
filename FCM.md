@@ -1,5 +1,5 @@
 # 资源仓库
-**For heytap(OPPO/OnePlus/realme) user:**
+** For heytap(OPPO/OnePlus/realme) user: **
 1. [battery_69w1.apk](https://voohlly.lanzv.com/b00y48r7g)
 2. 
 
